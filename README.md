@@ -7,7 +7,7 @@ Wymagania:
 
 Instalacja
 
-git clone https://github.com/DocDyson234/kanbanApp.git
+git clone https://github.com/DocDyson/kanbanApp.git
 
 Klient
 

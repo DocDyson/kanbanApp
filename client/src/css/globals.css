@@ -1,0 +1,29 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+    h2 {
+        @apply text-2xl;
+    }
+
+    h3 {
+        @apply text-lg;
+    }
+
+    h4 {
+        @apply text-base;
+    }
+
+    h5 {
+        @apply text-sm;
+    }
+}
+
+@layer utilities {
+
+    html.dark [data-hide-on-theme='dark'],
+    html.light [data-hide-on-theme='light'] {
+        display: none;
+    }
+}

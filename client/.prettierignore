@@ -1,0 +1,11 @@
+**/.git
+**/.svn
+**/.hg
+**/node_modules
+**/dist
+**/yarn.lock
+public
+.next
+.cache
+next-env.d.ts
+next.config.ts

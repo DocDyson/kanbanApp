@@ -56,8 +56,8 @@ Serwer
 (Przykładowa i czytelna wersja znajduje się w pliku .env.example)
 
     SECRET_KEY="asdafasdfsdf"
-    DATABASE_URL='postgres://postgres:root@localhost:5432/drosbros_kanban'
-						 użytkownik DB ^^      ^^ hasło DB
+    DATABASE_URL='postgres://postgres:root@localhost:5432/db_kanban'
+				użytkownik DB ^^      ^^ hasło DB
     ALLOWED_HOSTS="localhost , 127.0.0.1"
     CSRF_TRUSTED_ORIGINS="http://localhost"
     DEBUG=True

@@ -53,6 +53,8 @@ Serwer
 
 4. Tworzymy nowy plik o nazwie .env z poniższą zawartością (w zaznaczonych miejscah pod DATABASE_URL wprowadzamy użytkownika i hasło do bazy):
 
+(Przykładowa i czytelna wersja znajduje się w pliku .env.example)
+
     SECRET_KEY="asdafasdfsdf"
     DATABASE_URL='postgres://postgres:root@localhost:5432/drosbros_kanban'
 						 użytkownik DB ^^      ^^ hasło DB
